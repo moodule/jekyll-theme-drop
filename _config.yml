@@ -26,6 +26,9 @@ slack_url: https://github.com/moodule
 twitter_url: https://github.com/moodule
 
 # Collections
+collections:
+  drops:
+    output: true
 
 # Build settings
 markdown: kramdown
